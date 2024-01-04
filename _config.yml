@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Wim Verleyen, PhD"
+author: "Wim Verleyen"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:wim.verleyen@gmail.com"}
   - {title: Github, icon: github, url: "https://wimverleyen.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
