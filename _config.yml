@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/assets/pdfs/Verleyen_Wim_resume.pdf", title: "Resume"}
   - {file: "index.html", title: "Home"}
-  - {file: "blog.html", title: "Blog"}
+  - {file: "blog.md", title: "Blog"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:wim.verleyen@gmail.com"}
-  - {title: Github, icon: github, url: "https://wimverleyen.github.io"}
+  - {title: Github, icon: github, url: "https://github.com/wimverleyen"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/wimverleyen/"}
 
 comments:
