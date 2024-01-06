@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Innovate Products and Services | Drive Business Value Across Firm’s Functions and Lines of Business"
 ---
 
