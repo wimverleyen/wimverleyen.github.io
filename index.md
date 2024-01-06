@@ -16,3 +16,5 @@ Utilizing my educational expertise, I instill a data culture, foster AI literacy
 As an internal entrepreneur, I seamlessly integrate the latest Gen AI/AI/ML trends, transitioning prototypes into deployable proofs-of-concept. I guide strategic investments in D&A, delivering substantial business value and leading the firm's transformation into a genuinely data-centric organization.
 
 Specialties: research and development (R&D), business frameworks, business models, innovation management, data analytics, team management, artificial intelligence and machine learning (AI/ML), data science, data engineering, deep learning, large language models (LLMs), generative AI (Gen AI), and regulatory compliance.
+
+[Resume](/assets/pdfs/Verleyen_Wim_resume.pdf)
