@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Verleyen_Wim_resume.pdf", title: "Resume"}
+  - {file: "/assets/pdfs/Verleyen_Wim_resume.pdf", title: "Resume"}
   - {file: "index.html", title: "Home"}
   - {file: "blog.html", title: "Blog"}
   - {file: "README.md"}
