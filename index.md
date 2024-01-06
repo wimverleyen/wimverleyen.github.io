@@ -1,9 +1,11 @@
 ---
 layout: default
-title: ""
+title: "Innovate Products and Services | Drive Business Value Across Firm’s Functions and Lines of Business"
 ---
 
-<img src="/assets/images/Wim_Verleyen_headshot.png"  width="600" height="300">
+<img src="/assets/images/Wim_Verleyen_headshot.png"  width="300" height="150">
+
+## Bio
 
 I advance data and analytics (D&A) capabilities through innovative product and service development, solving real-world problems. As an enthusiastic AI/ML and data science professional, I build high-performing teams and deliver on commitments with integrity and thought leadership.
 
