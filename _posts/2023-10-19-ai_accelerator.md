@@ -11,7 +11,9 @@ categories: media
 
 ### Constructing a business framework to unshackle innovation and breakdown internal AI literacy.
 
-This [presentation](/assets/pdfs/AI_Accelerator_Summit_Boston_2023.pdf) 
+This [presentation](/assets/pdfs/AI_Accelerator_Summit_Boston_2023.pdf) reviews a business framework for defining a business plan regarding AI/ML innovation.
+
+As many organizations seek using Gen AI/AI/ML 
 
 ### Recording
 
