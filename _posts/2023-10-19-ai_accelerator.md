@@ -11,7 +11,7 @@ categories: media
 
 ### Constructing a business framework to unshackle innovation and breakdown internal AI literacy.
 
-
+This [presentation](/assets/pdfs/AI_Accelerator_Summit_Boston_2023.pdf) 
 
 ### Recording
 
