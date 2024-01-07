@@ -11,7 +11,7 @@ categories: media
 
 ### Constructing a business framework to unshackle innovation and breakdown internal AI literacy.
 
-This [presentation](/assets/pdfs/AI_Accelerator_Summit_Boston_2023.pdf) reviews a business framework for defining a business plan regarding AI/ML innovation. As many organizations seek using Gen AI/AI/ML, investing in Gen AI/AI/ML can be challenging. For instance, gaps in AI literacy, limited availability of data, misalignment between AI strategy and overall business strategy are some recurrent challenges.
+In this [presentation](/assets/pdfs/AI_Accelerator_Summit_Boston_2023.pdf), we examine a business framework for formulating a business plan in the context of AI/ML innovation. Given the increasing interest in leveraging Gen AI/AI/ML, making investments in this area can pose challenges. Common obstacles include gaps in AI literacy, restricted data availability, and misalignment between AI strategy and the broader business strategy.
 
 ### Recording
 
